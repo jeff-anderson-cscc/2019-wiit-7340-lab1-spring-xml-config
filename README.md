@@ -30,8 +30,10 @@ Instructions for completing the assignment:
 
 ## Hints from the Documentation
 
-* 1. The IoC Container
+1. The IoC Container
     * [1.2.1. Configuration Metadata](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans-factory-metadata)
+    * [1.3.2. Instantiating Beans](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans-factory-class)
+    * [1.4.1. Dependency Injection](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans-factory-collaborators)
 
 
 ## Submitting your work
