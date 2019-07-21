@@ -28,6 +28,12 @@ Instructions for completing the assignment:
     * Enter a proper comment
     * Uncheck "Perform code analysis"
 
+## Hints from the Documentation
+
+* 1. The IoC Container
+    * [1.2.1. Configuration Metadata](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans-factory-metadata)
+
+
 ## Submitting your work
 
 
